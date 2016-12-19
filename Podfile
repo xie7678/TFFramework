@@ -1,0 +1,8 @@
+platform :ios, '7.0'
+pod 'MJExtension'
+pod 'AFNetworking', '3.0.4'
+pod 'ObjcAssociatedObjectHelpers'
+pod 'FMDB', '2.6'
+pod 'SSKeychain', '1.3.1'
+pod 'Aspects'
+pod 'CocoaLumberjack', '2.2.0'

@@ -1,0 +1,6 @@
+framework module TFBaseLib {
+  umbrella header "TFBaseLib.h"
+
+  export *
+  module * { export * }
+}
