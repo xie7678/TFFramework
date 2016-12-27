@@ -7,7 +7,7 @@ the description for TFBaseLib_iOS only pod framework
 DESC
 s.homepage     = 'http://git01.dds.com/MP/TFBaseLib_iOS'
 s.license      = 'MIT'
-s.author       = { "xiayiyong" => "xiayiyong@chexiang.com" }
+s.author       = { "wenjiezhu2014" => "619959987@qq.com" }
 s.source       = {
                  :git => '.TFBaseLib_iOS.git',
                  :tag => s.version,
