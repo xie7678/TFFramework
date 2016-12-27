@@ -9,7 +9,7 @@ s.homepage     = 'http://git01.dds.com/MP/TFBaseLib_iOS'
 s.license      = 'MIT'
 s.author       = { "wenjiezhu2014" => "619959987@qq.com" }
 s.source       = {
-                 :git => '.TFBaseLib_iOS.git',
+                 :git => '/TFBaseLib_iOS.git',
                  :tag => s.version,
                  :submodules => true
                  }
